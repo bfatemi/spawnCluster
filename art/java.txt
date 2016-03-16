@@ -1,0 +1,16 @@
+          JJJJJJJJJJJ          AAA   VVVVVVVV           VVVVVVVV   AAA               
+          J:::::::::J         A:::A  V::::::V           V::::::V  A:::A              
+          J:::::::::J        A:::::A V::::::V           V::::::V A:::::A             
+          JJ:::::::JJ       A:::::::AV::::::V           V::::::VA:::::::A            
+            J:::::J        A:::::::::AV:::::V           V:::::VA:::::::::A           
+            J:::::J       A:::::A:::::AV:::::V         V:::::VA:::::A:::::A          
+            J:::::J      A:::::A A:::::AV:::::V       V:::::VA:::::A A:::::A         
+            J:::::j     A:::::A   A:::::AV:::::V     V:::::VA:::::A   A:::::A        
+            J:::::J    A:::::A     A:::::AV:::::V   V:::::VA:::::A     A:::::A       
+JJJJJJJ     J:::::J   A:::::AAAAAAAAA:::::AV:::::V V:::::VA:::::AAAAAAAAA:::::A      
+J:::::J     J:::::J  A:::::::::::::::::::::AV:::::V:::::VA:::::::::::::::::::::A     
+J::::::J   J::::::J A:::::AAAAAAAAAAAAA:::::AV:::::::::VA:::::AAAAAAAAAAAAA:::::A    
+J:::::::JJJ:::::::JA:::::A             A:::::AV:::::::VA:::::A             A:::::A   
+ JJ:::::::::::::JJA:::::A               A:::::AV:::::VA:::::A               A:::::A  
+   JJ:::::::::JJ A:::::A                 A:::::AV:::VA:::::A                 A:::::A 
+     JJJJJJJJJ  AAAAAAA                   AAAAAAAVVVAAAAAAA                   AAAAAAA

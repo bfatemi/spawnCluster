@@ -1,0 +1,25 @@
+******************************************************************************
+            __                   __
+           /\ \                 /\ \
+           \ \ \___      __     \_\ \    ___     ___   _____
+            \ \  _ `\  /_ _`\   / _` \  / __`\  / __`\/\  __`\
+             \ \ \ \ \/\ \L\.\_/\ \L\ \/\ \L\ \/\ \L\ \ \ \L\ \
+              \ \_\ \_\ \__/.\_\ \___,_\ \____/\ \____/\ \ ,__/
+               \/_/\/_/\/__/\/_/\/__,_ /\/___/  \/___/  \ \ \/
+                                                         \ \_\
+                                                          \/_/
+
+******************************************************************************
+                      
+                    Step 1: Download Hadoop.............. Complete
+                    Step 2: Unzip file................... Complete
+                    Step 3: Creating Hadoop Directory.... Complete
+                    Step 4: Updating .bashrc file........ Complete
+                    Step 5: Updating hadoop-env.sh....... Complete
+                    Step 6: Updating core-site.xml....... Complete
+                    Step 7: Updating yarn-site.xml....... Complete
+                    Step 8: Updating mapred-site.xml..... Complete
+                    Step 9: Updating hdfs-site.xml....... Complete
+                    Step 10: Formating HDFS.............. Complete
+                    Step 11: Starting services........... Complete
+
